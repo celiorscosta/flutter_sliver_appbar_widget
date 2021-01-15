@@ -1,4 +1,4 @@
-# flutter_sliver_appbar_widget
+# flutter sliver appbar widget
 Exemplo de AppBar Flexivel.
 
 Exemplo visto em:
